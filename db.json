@@ -1,0 +1,18 @@
+{
+  "rutinas": [
+    {
+      "tituloEx": "Sentadilla Zumo",
+      "descripcionEx": "Ejercicio de pierna",
+      "seriesEx": "3 series",
+      "repeticionesEx": "15 repeticiones",
+      "id": 2
+    },
+    {
+      "tituloEx": "Lagartijas con piernas al aire",
+      "descripcionEx": "ejercicio para pecho",
+      "seriesEx": "4 series",
+      "repeticionesEx": "15 repeticiones",
+      "id": 3
+    }
+  ]
+}
